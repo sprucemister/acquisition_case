@@ -5,6 +5,7 @@ __pycache__/
 .DS_Store
 .ruff_cache/
 *.egg-info/
+outputs/*
 
 # Raw data is not committed. See README ("Data") for where the files go.
 data/
