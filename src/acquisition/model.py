@@ -1,10 +1,4 @@
 """Reallocate the excess of 'Both' sales to 'Sendout only'.
-
-Idea: shortly after a sendout the 'Both' count is inflated by sendout-driven sales that
-happen to have a digital touch too. Late in the cycle (days 24-27) the sendout effect has
-faded, so the 'Both' level there is a flat baseline (per season). On earlier days the
-excess over that baseline is credited to 'Sendout only'. The total number of sales is
-conserved.
 """
 
 from __future__ import annotations

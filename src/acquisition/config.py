@@ -1,6 +1,4 @@
 """Paths, assumptions and plot settings.
-
-Every modelling assumption lives here so a reviewer can see them all in one place.
 """
 
 from __future__ import annotations
