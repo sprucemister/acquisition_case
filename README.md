@@ -27,7 +27,7 @@ You can alternatively see and run the raw code in the file `Main - Rough.py` usi
 
 - Use direct links to sales from `cookie_id` 
 - Remove digital interactions older than 7 days before sale
-- Don't credit Paid Search, Organic Search, and Direct are 
+- Don't credit Paid Search, Organic Search, and Direct 
 
 ### DM Sendouts
 
@@ -62,7 +62,7 @@ You can alternatively see and run the raw code in the file `Main - Rough.py` usi
 
 - For days 1-27, take sales over that threshold as attributable only to DM Sendout
 
-   - Sales below the threshold are attributable to both DM Sendout and Digital Interactions just as in the baseline attriubtion method
+   - Sales below the threshold are attributable to both DM Sendout and Digital Interactions just as in the baseline attribution method
 
 ## Layout
 
